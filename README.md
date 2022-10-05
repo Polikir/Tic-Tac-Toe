@@ -1,5 +1,6 @@
 # Tic Tac Toe Game
 ![](Tic_Tac_Toe_Images/TTTg.gif)
+
 This repository presents an implementation of the game Tic-Tac-Toe written in C++.
 The specifics of my implementation is to use the minimax algorithm and use the alpha beta pruning method. In addition, this game has a very beautiful and unique graphical interface, written using SFML, with which you can choose one of 3 unique designs:
 + Football theme
